@@ -1,2 +1,2 @@
 # hello-world
-Free Ka T-shirt.
+Hacktoberfest pay register kar layna or 4 pull request accept karwalayna.
